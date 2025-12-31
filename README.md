@@ -8,12 +8,12 @@
 
 ---
 
-### 🛠️ Languages & Tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠️Languages and Tools:</h3>
 <p align="left"> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
