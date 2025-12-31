@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/favour-adejimi-a7388325b" target="_blank">
     <img align="center"
