@@ -1,4 +1,4 @@
-## Hi 👋, I'm Favour Joshua Adejimi
+## 👨‍💻Hi 👋, I'm Favour Joshua Adejimi
 
 ### 🚀 Aspiring Software Developer | Engineer
 
