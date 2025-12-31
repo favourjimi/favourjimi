@@ -3,7 +3,7 @@
 ### 🚀 Aspiring Software Developer
 
 - 🌱 Currently learning Python, Web Development
-- 💻 Interested in backend & data-driven systems
+- 💻 Interested in backend,frontend;literally fullstack & data-driven systems
 - 📫 Reach me at: adejimifavour2019@gmail.com
 
 ---
