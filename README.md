@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Favour Joshua Adejimi
 
-### 🚀 Aspiring Software Developer
+### 🚀 Aspiring Software Developer | Engineer
 
 - 🌱 Currently learning Python, Web Development
 - 💻 Interested in backend,frontend;literally fullstack & data-driven systems
