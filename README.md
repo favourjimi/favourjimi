@@ -30,6 +30,23 @@
       height="30"
       width="40" />
   </a>
+    <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/favourjimi" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      alt="GeeksforGeeks"
+      height="30"
+      width="40" />
+  </a>
+
+  <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/favourjimi" target="_blank">
+    <img align="center"
+      src="https://cdn.simpleicons.org/tryhackme/C02029" 
+      alt="TryHackMe"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 ---
