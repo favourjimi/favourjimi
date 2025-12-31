@@ -31,7 +31,9 @@
       width="40" />
   </a>
 </p>
+
 ---
+
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=favourjimi&show_icons=true&theme=dark)
 
