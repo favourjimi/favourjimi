@@ -47,6 +47,14 @@
       height="30"
       width="40" />
   </a>
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+      alt="Codeforces"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 ---
